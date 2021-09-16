@@ -1,6 +1,6 @@
 [
-    {"nombre": "LadyBurger", "precio": 300, "id": 1},
-    {"nombre": "GreenBurger", "precio": 350, "id": 2},
-    {"nombre": "VeggyVeg", "precio": 360, "id": 3},
-    {"nombre": "BlackPan", "precio": 380, "id": 4}
+    {"nombre": "LadyBurger", "precio": 300,"img": "./img/hamb-card-1.webp", "id": 1},
+    {"nombre": "GreenBurger", "precio": 350,"img": "./img/hamb-card-2.webp", "id": 2},
+    {"nombre": "VeggyVeg", "precio": 360,"img": "./img/hamb-card-3.webp", "id": 3},
+    {"nombre": "BlackPan", "precio": 380,"img": "./img/hamb-card-4.webp", "id": 4}
 ]
